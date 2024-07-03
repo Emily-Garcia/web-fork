@@ -26,3 +26,11 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+img{
+    display: flex;
+    margin: auto;
+    width: 300px;
+    height: auto;
+    border-radius: 50px;
+}
+
